@@ -1,6 +1,6 @@
 # firstly
 
-A new Flutter project.
+A cool new Flutter project.
 
 ## Getting Started
 
