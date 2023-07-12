@@ -42,7 +42,6 @@ class _MyAppState extends State<MyApp> {
       x = '0';
     }
     mod = m;
-    print(y);
   }
 
   void doCalculation() {
@@ -63,12 +62,10 @@ class _MyAppState extends State<MyApp> {
     });
     x = '0';
     mod = Mod.none;
-    print(x);
   }
 
   @override
   Widget build(BuildContext context) {
-    print(x);
     return MaterialApp(
       home: Scaffold(
         body: Column(
